@@ -874,6 +874,10 @@ section,
   background: var(--surface-color);
 }
 
+/* .services .service-item:hover {
+  border: 1px solid var(--accent-color);
+} */
+
 .services .service-item:hover .icon i {
   color: var(--accent-color);
 }
